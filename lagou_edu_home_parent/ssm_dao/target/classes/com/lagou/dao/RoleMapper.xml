@@ -35,5 +35,31 @@ select m.id from roles r inner join role_menu_relation rm on r.id = rm.role_id
         delete from roles where id = #{id}
     </delete>
 
+    <!--角色拥有的资源分类信息-->
+    <select id="findResourceCategoryByRoleId" parameterType="int" resultType="com.lagou.domain.ResourceCategory">
+        SELECT DISTINCT rc.* from
+        role_resource_relation rr, resource r, resource_category rc
+        where
+        rr.resource_id = r.id
+        and r.category_id = rc.id
+        and rr.role_id = #{id}
+    </select>
+
+    <!--角色拥有的资源信息-->
+    <select id="findResourceByResourceCategoryId" parameterType="int" resultType="com.lagou.domain.Resource">
+        select * from resource where category_id = #{id}
+    </select>
+
+
+    <!--角色ID 删除角色与资源的关联关系-->
+    <delete id="deleteRoleResourceByRoleId" parameterType="int">
+        delete from role_resource_relation where role_id = #{id}
+    </delete>
+
+
+    <!--角色分配资源-->
+    <insert id="addRoleResource" parameterType="com.lagou.domain.RoleResourceRelation">
+        insert into role_resource_relation values (null,#{resourceId},#{roleId},#{createdTime},#{updatedTime},#{createdBy},#{updatedBy})
+    </insert>
 
 </mapper>

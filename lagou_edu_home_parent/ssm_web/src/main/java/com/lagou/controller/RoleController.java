@@ -62,4 +62,19 @@ public class RoleController {
         return new ResponseResult(true,200,"响应成功","");
     }
 
+    /*当前角色拥有的 资源信息*/
+    @RequestMapping("/findResourceListByRoleId")
+    public ResponseResult findResourceListByRoleId(Integer roleId){
+        List<ResourceCategory> categories = roleService.findResourceListByRoleId(roleId);
+        return new ResponseResult(true,200,"响应成功",categories);
+    }
+
+    /*为角色分配菜单*/
+    @RequestMapping("/roleContextResource")
+    public ResponseResult roleContextResource(@RequestBody RoleResourceVo roleResourceVo){
+        roleService.roleContextResource(roleResourceVo);
+        return new ResponseResult(true,200,"响应成功",null);
+    }
+
+
 }

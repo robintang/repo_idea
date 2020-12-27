@@ -6,7 +6,41 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb99bacc-143e-4fa8-803d-e9f4f8841d08" name="Default Changelist" comment="" />
+    <list default="true" id="bb99bacc-143e-4fa8-803d-e9f4f8841d08" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ssm_domain/src/main/java/com/lagou/domain/RoleResourceRelation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_domain/src/main/java/com/lagou/domain/RoleResourceVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_dao/src/main/java/com/lagou/dao/ResourceCategoryMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_dao/src/main/java/com/lagou/dao/ResourceCategoryMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_dao/src/main/java/com/lagou/dao/RoleMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_dao/src/main/java/com/lagou/dao/RoleMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/CourseContentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/CourseContentMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/ResourceCategoryMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/ResourceCategoryMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/RoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/RoleMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_dao/target/classes/com/lagou/dao/CourseContentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_dao/target/classes/com/lagou/dao/CourseContentMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_dao/target/classes/com/lagou/dao/ResourceCategoryMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_dao/target/classes/com/lagou/dao/ResourceCategoryMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_dao/target/classes/com/lagou/dao/ResourceCategoryMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_dao/target/classes/com/lagou/dao/ResourceCategoryMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_dao/target/classes/com/lagou/dao/RoleMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_dao/target/classes/com/lagou/dao/RoleMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_dao/target/classes/com/lagou/dao/RoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_dao/target/classes/com/lagou/dao/RoleMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_domain/src/main/java/com/lagou/domain/ResourceCategory.java" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_domain/src/main/java/com/lagou/domain/ResourceCategory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_domain/target/classes/com/lagou/domain/ResourceCategory.class" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_domain/target/classes/com/lagou/domain/ResourceCategory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/ResourceCategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/ResourceCategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/RoleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/RoleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/impl/ResourceCategoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/impl/ResourceCategoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/impl/RoleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/impl/RoleServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_service/target/classes/com/lagou/service/ResourceCategoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_service/target/classes/com/lagou/service/ResourceCategoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_service/target/classes/com/lagou/service/RoleService.class" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_service/target/classes/com/lagou/service/RoleService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_service/target/classes/com/lagou/service/impl/ResourceCategoryImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_service/target/classes/com/lagou/service/impl/ResourceCategoryImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_service/target/classes/com/lagou/service/impl/RoleServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_service/target/classes/com/lagou/service/impl/RoleServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/src/main/java/com/lagou/controller/ResourceCategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/src/main/java/com/lagou/controller/ResourceCategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/src/main/java/com/lagou/controller/RoleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/src/main/java/com/lagou/controller/RoleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/target/classes/com/lagou/controller/ResourceCategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/target/classes/com/lagou/controller/ResourceCategoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/target/classes/com/lagou/controller/RoleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/target/classes/com/lagou/controller/RoleController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/target/ssm_web-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/target/ssm_web-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/target/ssm_web-1.0-SNAPSHOT/WEB-INF/classes/com/lagou/controller/ResourceCategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/target/ssm_web-1.0-SNAPSHOT/WEB-INF/classes/com/lagou/controller/ResourceCategoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/target/ssm_web-1.0-SNAPSHOT/WEB-INF/classes/com/lagou/controller/RoleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/target/ssm_web-1.0-SNAPSHOT/WEB-INF/classes/com/lagou/controller/RoleController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/target/ssm_web-1.0-SNAPSHOT/WEB-INF/lib/ssm_dao-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/target/ssm_web-1.0-SNAPSHOT/WEB-INF/lib/ssm_dao-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/target/ssm_web-1.0-SNAPSHOT/WEB-INF/lib/ssm_domain-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/target/ssm_web-1.0-SNAPSHOT/WEB-INF/lib/ssm_domain-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/target/ssm_web-1.0-SNAPSHOT/WEB-INF/lib/ssm_service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/target/ssm_web-1.0-SNAPSHOT/WEB-INF/lib/ssm_service-1.0-SNAPSHOT.jar" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/ssm_domain/target/" />
@@ -26,10 +60,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/java/com/lagou/dao/UserMapper.java">
+        <entry file="file://$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/impl/ResourceCategoryImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="33" column="44" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="44" />
+            <state relative-caret-position="516">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1385#1386#0" expanded="true" />
+                <element signature="e#1450#1451#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssm_web/src/main/java/com/lagou/controller/ResourceCategoryController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -38,10 +86,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/UserService.java">
+        <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/java/com/lagou/dao/ResourceCategoryMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+            <state relative-caret-position="418">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -50,10 +98,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/impl/UserServiceImpl.java">
+        <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/ResourceCategoryMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1254">
-              <caret line="79" column="19" selection-start-line="79" selection-start-column="12" selection-end-line="79" selection-end-column="19" />
+            <state relative-caret-position="494">
+              <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/java/com/lagou/dao/ResourceMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -62,10 +119,43 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ssm_web/src/main/java/com/lagou/controller/UserController.java">
+        <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/java/com/lagou/dao/RoleMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1748">
-              <caret line="108" selection-start-line="108" selection-end-line="108" />
+            <state relative-caret-position="385">
+              <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/RoleMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="611">
+              <caret line="61" column="36" lean-forward="true" selection-start-line="61" selection-start-column="36" selection-end-line="61" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/RoleService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/impl/RoleServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="620">
+              <caret line="80" column="49" lean-forward="true" selection-start-line="80" selection-start-column="49" selection-end-line="80" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -74,19 +164,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lagou_edu_home_parent.iml">
+        <entry file="file://$PROJECT_DIR$/ssm_web/src/main/java/com/lagou/controller/RoleController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/UserMapper.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1026">
-              <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+            <state relative-caret-position="554">
+              <caret line="74" column="39" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -108,15 +192,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ssm_web/src/main/resources/springmvc.xml" />
-        <option value="$PROJECT_DIR$/ssm_domain/src/main/java/com/lagou/domain/CourseVo.java" />
-        <option value="$PROJECT_DIR$/ssm_domain/src/main/java/com/lagou/domain/Course.java" />
-        <option value="$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/CourseMapper.xml" />
         <option value="$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/CourseService.java" />
         <option value="$PROJECT_DIR$/ssm_web/src/main/java/com/lagou/controller/CourseController.java" />
         <option value="$PROJECT_DIR$/ssm_dao/src/main/java/com/lagou/dao/CourseMapper.java" />
         <option value="$PROJECT_DIR$/ssm_dao/src/main/java/com/lagou/dao/CourseContentMapper.java" />
-        <option value="$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/CourseContentMapper.xml" />
         <option value="$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/CourseContentService.java" />
         <option value="$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/impl/CourseContentServiceImpl.java" />
         <option value="$PROJECT_DIR$/ssm_web/src/main/java/com/lagou/controller/CourseContentController.java" />
@@ -132,11 +211,6 @@
         <option value="$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/impl/PromotionAdServiceImpl.java" />
         <option value="$PROJECT_DIR$/ssm_web/src/main/java/com/lagou/controller/PromotionAdController.java" />
         <option value="$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/PromotionAdMapper.xml" />
-        <option value="$PROJECT_DIR$/ssm_dao/src/main/java/com/lagou/dao/RoleMapper.java" />
-        <option value="$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/RoleMapper.xml" />
-        <option value="$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/RoleService.java" />
-        <option value="$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/impl/RoleServiceImpl.java" />
-        <option value="$PROJECT_DIR$/ssm_web/src/main/java/com/lagou/controller/RoleController.java" />
         <option value="$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/MenuService.java" />
         <option value="$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/impl/MenuServiceImpl.java" />
         <option value="$PROJECT_DIR$/ssm_dao/src/main/java/com/lagou/dao/MenuMapper.java" />
@@ -147,10 +221,6 @@
         <option value="$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/ResourceService.java" />
         <option value="$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/impl/ResourceServiceImpl.java" />
         <option value="$PROJECT_DIR$/ssm_web/src/main/java/com/lagou/controller/ResourceController.java" />
-        <option value="$PROJECT_DIR$/ssm_dao/src/main/java/com/lagou/dao/ResourceCategoryMapper.java" />
-        <option value="$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/ResourceCategoryService.java" />
-        <option value="$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/impl/ResourceCategoryImpl.java" />
-        <option value="$PROJECT_DIR$/ssm_web/src/main/java/com/lagou/controller/ResourceCategoryController.java" />
         <option value="$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/ResourceCategory.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/ssm_dao/src/main/java/com/lagou/dao/UserMapper.java" />
@@ -159,6 +229,20 @@
         <option value="$PROJECT_DIR$/ssm_dao/src/main/resources/jdbc.properties" />
         <option value="$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/UserMapper.xml" />
         <option value="$PROJECT_DIR$/ssm_web/src/main/java/com/lagou/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/ssm_dao/src/main/java/com/lagou/dao/ResourceCategoryMapper.java" />
+        <option value="$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/ResourceCategoryMapper.xml" />
+        <option value="$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/ResourceCategoryService.java" />
+        <option value="$PROJECT_DIR$/ssm_web/src/main/java/com/lagou/controller/ResourceCategoryController.java" />
+        <option value="$PROJECT_DIR$/ssm_domain/src/main/java/com/lagou/domain/ResourceCategory.java" />
+        <option value="$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/CourseContentMapper.xml" />
+        <option value="$PROJECT_DIR$/ssm_domain/src/main/java/com/lagou/domain/RoleResourceRelation.java" />
+        <option value="$PROJECT_DIR$/ssm_domain/src/main/java/com/lagou/domain/RoleResourceVo.java" />
+        <option value="$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/RoleService.java" />
+        <option value="$PROJECT_DIR$/ssm_dao/src/main/java/com/lagou/dao/RoleMapper.java" />
+        <option value="$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/RoleMapper.xml" />
+        <option value="$PROJECT_DIR$/ssm_web/src/main/java/com/lagou/controller/RoleController.java" />
+        <option value="$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/impl/RoleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/impl/ResourceCategoryImpl.java" />
       </list>
     </option>
   </component>
@@ -193,10 +277,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="62" />
-    <option name="y" value="423" />
-    <option name="width" value="1558" />
-    <option name="height" value="918" />
+    <option name="x" value="-44" />
+    <option name="y" value="91" />
+    <option name="width" value="1613" />
+    <option name="height" value="1001" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -204,7 +288,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -213,10 +296,285 @@
               <item name="lagou_edu_home_parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="lagou_edu_home_parent" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="lagou_edu_home_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou_edu_home_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou_edu_home_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou_edu_home_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou_edu_home_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou_edu_home_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou_edu_home_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou_edu_home_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou_edu_home_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou_edu_home_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou_edu_home_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou_edu_home_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou_edu_home_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou_edu_home_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou_edu_home_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou_edu_home_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou_edu_home_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou_edu_home_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou_edu_home_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou_edu_home_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou_edu_home_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou_edu_home_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou_edu_home_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou_edu_home_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou_edu_home_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou_edu_home_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_domain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou_edu_home_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou_edu_home_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_domain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou_edu_home_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou_edu_home_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_domain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou_edu_home_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou_edu_home_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_domain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou_edu_home_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou_edu_home_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_domain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou_edu_home_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou_edu_home_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_domain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou_edu_home_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou_edu_home_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou_edu_home_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou_edu_home_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou_edu_home_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou_edu_home_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou_edu_home_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou_edu_home_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou_edu_home_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou_edu_home_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou_edu_home_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou_edu_home_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou_edu_home_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou_edu_home_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou_edu_home_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou_edu_home_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou_edu_home_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou_edu_home_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou_edu_home_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou_edu_home_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou_edu_home_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou_edu_home_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou_edu_home_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou_edu_home_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou_edu_home_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou_edu_home_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou_edu_home_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou_edu_home_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou_edu_home_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou_edu_home_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -380,8 +738,17 @@
       <workItem from="1608978435558" duration="259000" />
       <workItem from="1608978826849" duration="212000" />
       <workItem from="1608979057796" duration="198000" />
-      <workItem from="1608979274136" duration="112000" />
+      <workItem from="1608979274136" duration="941000" />
+      <workItem from="1609025879459" duration="7633000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1608979590159</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608979590159</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -390,7 +757,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76232000" />
+    <option name="totallyTimeSpent" value="84694000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -402,9 +769,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="754" y="101" width="1558" height="918" extended-state="0" />
+    <frame x="105" y="186" width="1613" height="1001" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3018494" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24410452" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -414,8 +782,8 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28292683" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.399137" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.0786268" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3986711" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32901832" />
@@ -425,7 +793,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32901832" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.2857143" />
       <window_info anchor="bottom" id="Application Servers" order="14" weight="0.32901832" />
       <window_info anchor="bottom" id="Messages" order="15" weight="0.32846716" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -479,54 +847,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_web/src/main/java/com/lagou/controller/CourseController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="76" column="5" lean-forward="true" selection-start-line="37" selection-start-column="4" selection-end-line="76" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/impl/CourseServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="100" selection-start-line="100" selection-end-line="100" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1602#1603#0" expanded="true" />
-            <element signature="e#1656#1657#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/PromotionAdService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/impl/PromotionAdServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="53" column="55" selection-start-line="53" selection-start-column="55" selection-end-line="53" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1720#1721#0" expanded="true" />
-            <element signature="e#1747#1748#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ssm_web/src/main/java/com/lagou/controller/PromotionAdController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="151">
@@ -548,13 +873,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/PromotionAdMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="78" column="16" lean-forward="true" selection-start-line="78" selection-start-column="16" selection-end-line="78" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ssm_domain/src/main/java/com/lagou/domain/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -572,23 +890,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/TestMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_domain/src/main/java/com/lagou/domain/Role.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/PromotionSpaceMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ssm_domain/src/main/java/com/lagou/domain/Menu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
@@ -603,55 +904,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/RoleMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/java/com/lagou/dao/RoleMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="23" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/RoleService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/impl/RoleServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="54" column="34" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-            <element signature="e#596#597#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_web/src/main/java/com/lagou/controller/RoleController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="57" column="11" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -702,20 +954,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/MenuMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_domain/src/main/java/com/lagou/domain/ResourseVo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/ResourceService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -723,23 +961,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/java/com/lagou/dao/ResourceMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/ResourceMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" selection-end-column="54" />
         </state>
       </provider>
     </entry>
@@ -763,64 +984,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_domain/src/main/java/com/lagou/domain/ResourceCategory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/impl/ResourceCategoryImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_web/src/main/java/com/lagou/controller/ResourceCategoryController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/ResourceCategoryService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/ResourceCategoryMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="314">
           <caret line="236" column="21" selection-start-line="236" selection-start-column="21" selection-end-line="236" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/java/com/lagou/dao/ResourceCategoryMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="57" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -865,16 +1032,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/impl/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1254">
@@ -895,6 +1052,122 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lagou_edu_home_parent.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_domain/src/main/java/com/lagou/domain/ResourseVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_domain/src/main/java/com/lagou/domain/Role.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-110">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/CourseContentMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2140">
+          <caret line="113" column="13" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/java/com/lagou/dao/CourseContentMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_domain/src/main/java/com/lagou/domain/ResourceCategory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_domain/src/main/java/com/lagou/domain/RoleResourceVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding>
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/CourseMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="148" lean-forward="true" selection-start-line="148" selection-end-line="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/MenuMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/PromotionAdMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1482">
+          <caret line="78" column="16" lean-forward="true" selection-start-line="78" selection-start-column="16" selection-end-line="78" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/PromotionSpaceMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/ResourceMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/TestMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/UserMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1026">
@@ -902,10 +1175,146 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lagou_edu_home_parent.iml">
+    <entry file="file://$PROJECT_DIR$/ssm_domain/src/main/java/com/lagou/domain/RoleResourceRelation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        <state relative-caret-position="266">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#721#722#0" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+            <element signature="e#807#808#0" expanded="true" />
+            <element signature="e#853#854#0" expanded="true" />
+            <element signature="e#889#890#0" expanded="true" />
+            <element signature="e#923#924#0" expanded="true" />
+            <element signature="e#975#976#0" expanded="true" />
+            <element signature="e#1021#1022#0" expanded="true" />
+            <element signature="e#1057#1058#0" expanded="true" />
+            <element signature="e#1089#1090#0" expanded="true" />
+            <element signature="e#1139#1140#0" expanded="true" />
+            <element signature="e#1181#1182#0" expanded="true" />
+            <element signature="e#1217#1218#0" expanded="true" />
+            <element signature="e#1249#1250#0" expanded="true" />
+            <element signature="e#1299#1300#0" expanded="true" />
+            <element signature="e#1341#1342#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/ResourceCategoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/impl/ResourceCategoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1385#1386#0" expanded="true" />
+            <element signature="e#1450#1451#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_web/src/main/java/com/lagou/controller/ResourceCategoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/ResourceCategoryMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/java/com/lagou/dao/ResourceCategoryMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/java/com/lagou/dao/ResourceMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/java/com/lagou/dao/RoleMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/resources/com/lagou/dao/RoleMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="61" column="36" lean-forward="true" selection-start-line="61" selection-start-column="36" selection-end-line="61" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/RoleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_service/src/main/java/com/lagou/service/impl/RoleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="80" column="49" lean-forward="true" selection-start-line="80" selection-start-column="49" selection-end-line="80" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_web/src/main/java/com/lagou/controller/RoleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="74" column="39" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
